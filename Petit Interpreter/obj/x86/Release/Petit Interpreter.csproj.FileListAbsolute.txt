@@ -1,0 +1,13 @@
+D:\ZerOx4C\Dropbox\Program\Petit Interpreter\Petit Interpreter\bin\Release\pi.exe.config
+D:\ZerOx4C\Dropbox\Program\Petit Interpreter\Petit Interpreter\bin\Release\pi.exe
+D:\ZerOx4C\Dropbox\Program\Petit Interpreter\Petit Interpreter\bin\Release\QUT.ShiftReduceParser.dll
+D:\ZerOx4C\Dropbox\Program\Petit Interpreter\Petit Interpreter\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ZerOx4C\Dropbox\Program\Petit Interpreter\Petit Interpreter\obj\x86\Release\pi.exe
+D:\ZerOx4C\Dropbox\classes\ゼミ\petit\C#_gplex_gppg\Petit Interpreter\bin\Release\petit.exe
+D:\ZerOx4C\Dropbox\classes\ゼミ\petit\C#_gplex_gppg\Petit Interpreter\bin\Release\QUT.ShiftReduceParser.dll
+D:\ZerOx4C\Dropbox\classes\ゼミ\petit\C#_gplex_gppg\Petit Interpreter\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ZerOx4C\Dropbox\classes\ゼミ\petit\C#_gplex_gppg\Petit Interpreter\obj\x86\Release\petit.exe
+C:\ZerOx4C\Dropbox\classes\ゼミ\petit\C#_gplex_gppg\Petit Interpreter\bin\Release\petit.exe
+C:\ZerOx4C\Dropbox\classes\ゼミ\petit\C#_gplex_gppg\Petit Interpreter\bin\Release\QUT.ShiftReduceParser.dll
+C:\ZerOx4C\Dropbox\classes\ゼミ\petit\C#_gplex_gppg\Petit Interpreter\obj\x86\Release\Petit Interpreter.csprojResolveAssemblyReference.cache
+C:\ZerOx4C\Dropbox\classes\ゼミ\petit\C#_gplex_gppg\Petit Interpreter\obj\x86\Release\petit.exe

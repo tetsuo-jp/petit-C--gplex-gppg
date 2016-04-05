@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Petit.Node" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Petit.ProgramNode">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProgramNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Petit.ExpressionNode">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ExpressionNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Petit.SucNode" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>SucNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Petit.SequenceNode" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SequenceNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Petit.ForNode" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>ForNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Petit.AssignNode" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>AssignNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Petit.VariableNode" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAEAAAAAAAAAAAAACAAAAAgAAAAAgA=</HashCode>
+      <FileName>VariableNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Petit.ZeroNode" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ZeroNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="メイリオ" Size="9" />
+</ClassDiagram>
